@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Richard James",
+        "isAvailable": true,
+        "category": "General Physician",
+        "image": "/top_doctors_image/doc1.png",
+        "degree": "MBBS, MD",
+        "experience": "10 years",
+        "description": "Dr. Richard James is a highly experienced General Physician known for his expertise in diagnosing and treating a wide range of health conditions. He has a compassionate approach towards his patients and believes in holistic care. Dr. James is dedicated to improving the overall well-being of his patients. He is well-versed in preventive healthcare measures. His goal is to provide personalized care to each of his patients.",
+        "appointmentFee": 50
+    },
+    {
+        "id": 2,
+        "name": "Dr. Emma Watson",
+        "isAvailable": true,
+        "category": "Gynecologist",
+        "image": "/top_doctors_image/doc2.png",
+        "degree": "MBBS, MS",
+        "experience": "8 years",
+        "description": "Dr. Emma Watson is a compassionate Gynecologist with extensive experience in women’s health. She has been helping women with issues ranging from pregnancy to menopause. Dr. Watson is known for her patient-centric approach and excellent surgical skills. She focuses on providing comprehensive care to her patients. Her passion lies in educating women about their health.",
+        "appointmentFee": 60
+    },
+    {
+        "id": 3,
+        "name": "Dr. Michael Brown",
+        "isAvailable": false,
+        "category": "Dermatologist",
+        "image": "/top_doctors_image/doc3.png",
+        "degree": "MBBS, MD (Dermatology)",
+        "experience": "6 years",
+        "description": "Dr. Michael Brown is an expert Dermatologist specializing in skin care and treatment of skin diseases. His experience covers acne treatments, skin cancer screening, and cosmetic dermatology. Dr. Brown takes a personalized approach to each patient's skincare needs. He is highly regarded for his minimally invasive treatments. He aims to provide effective and long-lasting solutions.",
+        "appointmentFee": 70
+    },
+    {
+        "id": 4,
+        "name": "Dr. Sarah Johnson",
+        "isAvailable": true,
+        "category": "Pediatrician",
+        "image": "/top_doctors_image/doc4.png",
+        "degree": "MBBS, MD (Pediatrics)",
+        "experience": "12 years",
+        "description": "Dr. Sarah Johnson is a Pediatrician with over a decade of experience in managing the health of children from birth to adolescence. She is well-versed in preventive care, diagnosis, and treatment of common childhood diseases. Dr. Johnson has a reputation for being patient and caring. Her focus is on creating a comfortable environment for both children and parents. She emphasizes preventive healthcare in her practice.",
+        "appointmentFee": 55
+    },
+    {
+        "id": 5,
+        "name": "Dr. William Turner",
+        "isAvailable": true,
+        "category": "Cardiologist",
+        "image": "/top_doctors_image/doc5.png",
+        "degree": "MBBS, MD, DM (Cardiology)",
+        "experience": "15 years",
+        "description": "Dr. William Turner is a renowned Cardiologist with a wealth of experience in treating complex heart conditions. He is highly skilled in managing heart attacks, arrhythmias, and hypertension. Dr. Turner is known for his precision in diagnosing cardiovascular diseases. He believes in early detection and preventive cardiology. His practice is focused on patient education and personalized treatment plans.",
+        "appointmentFee": 100
+    },
+    {
+        "id": 6,
+        "name": "Dr. Olivia Davis",
+        "isAvailable": false,
+        "category": "Endocrinologist",
+        "image": "/top_doctors_image/doc6.png",
+        "degree": "MBBS, MD (Endocrinology)",
+        "experience": "7 years",
+        "description": "Dr. Olivia Davis is an experienced Endocrinologist specializing in hormone-related disorders such as diabetes, thyroid problems, and metabolic syndromes. Her approach involves a comprehensive understanding of hormonal imbalances. Dr. Davis is dedicated to providing individualized care to her patients. She works closely with patients to help manage chronic conditions. Her emphasis is on long-term management and patient education.",
+        "appointmentFee": 90
+    },
+    {
+        "id": 7,
+        "name": "Dr. John Williams",
+        "isAvailable": true,
+        "category": "Orthopedist",
+        "image": "/top_doctors_image/doc7.png",
+        "degree": "MBBS, MS (Orthopedics)",
+        "experience": "9 years",
+        "description": "Dr. John Williams is a leading Orthopedist specializing in bone and joint care. His expertise includes joint replacements, sports injuries, and fracture management. Dr. Williams is known for his thorough approach to orthopedic treatment. He aims to provide fast recovery options for his patients. His goal is to help patients regain their mobility and quality of life.",
+        "appointmentFee": 80
+    },
+    {
+        "id": 8,
+        "name": "Dr. Sophia Thompson",
+        "isAvailable": true,
+        "category": "Neurologist",
+        "image": "/top_doctors_image/doc8.png",
+        "degree": "MBBS, DM (Neurology)",
+        "experience": "11 years",
+        "description": "Dr. Sophia Thompson is a highly experienced Neurologist with a focus on treating neurological disorders. She specializes in stroke management, epilepsy, and migraine treatments. Dr. Thompson takes a patient-centered approach to diagnosis and treatment. She is dedicated to helping her patients achieve the best possible outcomes. Her practice includes both clinical and preventive neurology.",
+        "appointmentFee": 110
+    },
+    {
+        "id": 9,
+        "name": "Dr. David Garcia",
+        "isAvailable": false,
+        "category": "Ophthalmologist",
+        "image": "/top_doctors_image/doc9.png",
+        "degree": "MBBS, MS (Ophthalmology)",
+        "experience": "6 years",
+        "description": "Dr. David Garcia is an Ophthalmologist with a focus on treating eye diseases and performing corrective surgeries. His expertise includes cataract surgeries and laser vision correction. Dr. Garcia is committed to enhancing his patients’ vision through state-of-the-art procedures. He believes in educating patients about maintaining long-term eye health. His approach is both medical and surgical.",
+        "appointmentFee": 75
+    },
+    {
+        "id": 10,
+        "name": "Dr. Isabella Martinez",
+        "isAvailable": true,
+        "category": "Dentist",
+        "image": "/top_doctors_image/doc10.png",
+        "degree": "BDS, MDS (Dentistry)",
+        "experience": "5 years",
+        "description": "Dr. Isabella Martinez is a skilled Dentist offering a wide range of dental services including cleanings, fillings, and cosmetic dentistry. She takes great pride in ensuring a pain-free and comfortable experience for her patients. Dr. Martinez focuses on preventive care to help her patients maintain healthy teeth. Her friendly demeanor puts patients at ease. She is known for her attention to detail.",
+        "appointmentFee": 65
+    },
+    {
+        "id": 11,
+        "name": "Dr. James Rodriguez",
+        "isAvailable": true,
+        "category": "Psychiatrist",
+        "image": "/top_doctors_image/doc11.png",
+        "degree": "MBBS, MD (Psychiatry)",
+        "experience": "13 years",
+        "description": "Dr. James Rodriguez is a Psychiatrist specializing in mental health treatment. He has extensive experience treating depression, anxiety, and bipolar disorder. Dr. Rodriguez adopts a personalized approach to therapy and medication management. His focus is on helping patients achieve mental well-being. He believes in empowering patients with the tools they need to lead fulfilling lives.",
+        "appointmentFee": 85
+    },
+    {
+        "id": 12,
+        "name": "Dr. Emily Clark",
+        "isAvailable": false,
+        "category": "Oncologist",
+        "image": "/top_doctors_image/doc12.png",
+        "degree": "MBBS, DM (Oncology)",
+        "experience": "10 years",
+        "description": "Dr. Emily Clark is an Oncologist with a deep expertise in cancer treatment. She has successfully treated a wide range of cancers, with a focus on personalized care. Dr. Clark's approach involves the latest medical advances combined with a compassionate understanding of her patients’ needs. She aims to offer the best possible care through early diagnosis and treatment. Her goal is to help her patients lead fulfilling lives post-treatment.",
+        "appointmentFee": 120
+    },
+    {
+        "id": 13,
+        "name": "Dr. Daniel Lee",
+        "isAvailable": true,
+        "category": "Urologist",
+        "image": "/top_doctors_image/doc13.png",
+        "degree": "MBBS, MS (Urology)",
+        "experience": "7 years",
+        "description": "Dr. Daniel Lee is a Urologist specializing in treating conditions related to the urinary tract and male reproductive organs. He offers expert care for kidney stones, urinary tract infections, and prostate issues. Dr. Lee is known for his patient-centered approach to treatment. He provides both surgical and non-surgical treatments tailored to his patients’ needs. His focus is on delivering quality care with lasting results.",
+        "appointmentFee": 90
+    },
+    {
+        "id": 14,
+        "name": "Dr. Lucas Walker",
+        "isAvailable": true,
+        "category": "ENT Specialist",
+        "image": "/top_doctors_image/doc14.png",
+        "degree": "MBBS, MS (ENT)",
+        "experience": "6 years",
+        "description": "Dr. Lucas Walker is an ENT Specialist with expertise in treating ear, nose, and throat disorders. His practice includes treating chronic sinusitis, hearing loss, and allergies. Dr. Walker is dedicated to providing patients with a clear understanding of their treatment options. He focuses on providing minimally invasive procedures with quick recovery times. His goal is to restore his patients’ quality of life.",
+        "appointmentFee": 70
+    },
+    {
+        "id": 15,
+        "name": "Dr. Mia Hill",
+        "isAvailable": false,
+        "category": "Gastroenterologist",
+        "image": "/top_doctors_image/doc15.png",
+        "degree": "MBBS, MD (Gastroenterology)",
+        "experience": "8 years",
+        "description": "Dr. Mia Hill is a Gastroenterologist specializing in digestive health. She treats conditions such as IBS, acid reflux, and liver disorders. Dr. Hill is known for her expertise in both medical and procedural gastroenterology. She takes a thorough and patient-focused approach to diagnosis and treatment. Her emphasis is on providing relief to patients suffering from chronic gastrointestinal disorders.",
+        "appointmentFee": 95
+    }
+]

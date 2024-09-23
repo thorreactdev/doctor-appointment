@@ -1,0 +1,45 @@
+{
+    "faqs": [
+      {
+        "question": "How do I book an appointment?",
+        "answer": "You can book an appointment by searching for your doctor or specialty on our homepage, selecting a time slot, and confirming your details. Once confirmed, you'll receive an appointment confirmation via email."
+      },
+      {
+        "question": "Can I cancel or reschedule an appointment?",
+        "answer": "Yes, you can cancel or reschedule an appointment through your account. Simply go to your appointment history and choose the cancel or reschedule option. Make sure to check our cancellation policy for any fees that might apply."
+      },
+      {
+        "question": "Are the doctors available for virtual consultations?",
+        "answer": "Yes, many of our doctors offer virtual consultations. You can select the 'Virtual Consultation' option when booking your appointment to meet with your doctor online."
+      },
+      {
+        "question": "How do I prepare for my appointment?",
+        "answer": "For in-person appointments, arrive 10-15 minutes early to complete any paperwork. For virtual consultations, ensure you have a stable internet connection and your device is ready. You may also be asked to upload relevant medical records prior to your appointment."
+      },
+      {
+        "question": "Is my medical information secure?",
+        "answer": "Yes, we take the security of your medical information seriously. All data is encrypted, and our platform complies with healthcare privacy regulations to ensure your personal information remains safe and secure."
+      },
+      {
+        "question": "What payment methods are accepted?",
+        "answer": "We accept all major credit and debit cards, as well as various digital payment options like PayPal. In some cases, insurance can also be applied to cover the cost of the appointment."
+      },
+      {
+        "question": "Can I see a specialist without a referral?",
+        "answer": "Depending on your healthcare provider, you may not need a referral to see a specialist. You can browse our list of specialists and book an appointment directly through the platform."
+      },
+      {
+        "question": "What happens if I miss my appointment?",
+        "answer": "If you miss your appointment without canceling in advance, you may be charged a no-show fee. Please check the cancellation policy for specific details."
+      },
+      {
+        "question": "How do I find the right doctor for my needs?",
+        "answer": "You can search for doctors by specialty, location, and availability using our search bar. You can also read patient reviews and ratings to help you make an informed decision."
+      },
+      {
+        "question": "What should I bring to my appointment?",
+        "answer": "For in-person appointments, bring a valid ID, any insurance information, and any relevant medical records. For virtual consultations, ensure you have all relevant medical documents uploaded ahead of time."
+      }
+    ]
+  }
+  

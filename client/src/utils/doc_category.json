@@ -1,0 +1,32 @@
+[
+    {
+        "image" : "/doctors_images/Dermatologist.svg",
+        "id" : 1,
+        "name" : "Dermatologist"  
+    },
+    {
+        "image" : "/doctors_images/Gastroenterologist.svg",
+        "id" : 2,
+        "name" : "Gastroenterologist"  
+    },
+    {
+        "image" : "/doctors_images/General_physician.svg",
+        "id" : 3,
+        "name" : "General physician"  
+    },
+    {
+        "image" : "/doctors_images/Gynecologist.svg",
+        "id" : 4,
+        "name" : "Gynecologist"  
+    },
+    {
+        "image" : "/doctors_images/Neurologist.svg",
+        "id" : 5,
+        "name" : "Neurologist"  
+    },
+    {
+        "image" : "/doctors_images/Pediatricians.svg",
+        "id" : 6,
+        "name" : "Pediatricians"  
+    }
+]
